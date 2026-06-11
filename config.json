@@ -60,6 +60,25 @@
       ]
     },
     {
+      "id": "data-cleaning-visualization",
+      "title": "Data Cleaning and Visualization",
+      "description": "Clean a dataset with pandas and create visualizations to reveal trends.",
+      "path": "assignments/data-cleaning-visualization",
+      "dueDate": "2026-07-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
+    },
+    {
       "id": "fastapi-rest-apis",
       "title": "Building REST APIs with FastAPI",
       "description": "Create RESTful endpoints with FastAPI and validate request data using Pydantic.",
